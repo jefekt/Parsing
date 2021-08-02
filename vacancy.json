@@ -1,0 +1,136 @@
+{
+    "works": [
+        {
+            "name": "Логист/Диспетчер транспортного отдела",
+            "wage_min": "60000",
+            "wage_max": null,
+            "wage_value": "руб",
+            "url": "https://korolev.hh.ru/vacancy/46689834?from=catalog_vacancies",
+            "employer": "Fix Price",
+            "employer_site": "https://hh.ru/employer/196621?dpt=fixprice-196621-fixp",
+            "city": "Королев",
+            "site": "https://hh.ru"
+        },
+        {
+            "name": "Диспетчер-логист",
+            "wage_min": "52200",
+            "wage_max": null,
+            "wage_value": "руб",
+            "url": "https://korolev.hh.ru/vacancy/46690549?from=catalog_vacancies",
+            "employer": "Fix Price",
+            "employer_site": "https://hh.ru/employer/196621?dpt=fixprice-196621-fixp",
+            "city": "Королев",
+            "site": "https://hh.ru"
+        },
+        {
+            "name": "Менеджер по логистике",
+            "wage_min": "60000",
+            "wage_max": null,
+            "wage_value": "руб",
+            "url": "https://korolev.hh.ru/vacancy/46146809?from=catalog_vacancies",
+            "employer": "ООО Аксель Пак",
+            "employer_site": "https://hh.ru/employer/1827670",
+            "city": "Королев",
+            "site": "https://hh.ru"
+        },
+        {
+            "name": "Менеджер по логистике",
+            "wage_min": "40000",
+            "wage_max": "60000",
+            "wage_value": "руб",
+            "url": "https://korolev.hh.ru/vacancy/46326869?from=catalog_vacancies",
+            "employer": "ООО Крос-Инжиниринг",
+            "employer_site": "https://hh.ru/employer/3876809",
+            "city": "Королев",
+            "site": "https://hh.ru"
+        },
+        {
+            "name": "Диспетчер грузоперевозок / Логист / Диспетчер транспортного отдела (г. Мытищи)",
+            "wage_min": "55000",
+            "wage_max": null,
+            "wage_value": "руб",
+            "url": "https://korolev.hh.ru/vacancy/46286668?from=catalog_vacancies",
+            "employer": "Baltic Logistics, Группа компаний",
+            "employer_site": "https://hh.ru/employer/739865",
+            "city": "Королев",
+            "site": "https://hh.ru"
+        },
+        {
+            "name": "Помощник логиста",
+            "wage_min": "40000",
+            "wage_max": null,
+            "wage_value": "руб",
+            "url": "https://korolev.hh.ru/vacancy/46389582?from=catalog_vacancies",
+            "employer": "ООО Транспортная Компания Технология Движения",
+            "employer_site": "https://hh.ru/employer/3081446",
+            "city": "Королев",
+            "site": "https://hh.ru"
+        },
+        {
+            "name": "Менеджер по транспортной логистике",
+            "wage_min": "40000",
+            "wage_max": "60000",
+            "wage_value": "руб",
+            "url": "https://korolev.hh.ru/vacancy/46309920?from=catalog_vacancies",
+            "employer": "ООО Рендеринг",
+            "employer_site": "https://hh.ru/employer/4968480",
+            "city": "Королев",
+            "site": "https://hh.ru"
+        },
+        {
+            "name": "Сотрудник склада /Помощник логиста",
+            "wage_min": "45000",
+            "wage_max": "47000",
+            "wage_value": "руб",
+            "url": "https://korolev.hh.ru/vacancy/46592620?from=catalog_vacancies",
+            "employer": "ООО СИСТЕМЫ КОМПЛЕКСНОЙ ЛОГИСТИКИ",
+            "employer_site": "https://hh.ru/employer/3306315",
+            "city": "Королев",
+            "site": "https://hh.ru"
+        },
+        {
+            "name": "Product Manager \\ Продакт-менеджер",
+            "wage_min": null,
+            "wage_max": null,
+            "wage_value": null,
+            "url": "https://korolev.hh.ru/vacancy/45701121?from=catalog_vacancies",
+            "employer": "ООО Тетра",
+            "employer_site": "https://hh.ru/employer/2095266",
+            "city": "Королев",
+            "site": "https://hh.ru"
+        },
+        {
+            "name": "Курьер/Доставщик к партнеру сервиса Яндекс.Еда",
+            "wage_min": "60000",
+            "wage_max": null,
+            "wage_value": "руб",
+            "url": "https://korolev.hh.ru/vacancy/46281471?from=catalog_vacancies",
+            "employer": "ООО Телетел",
+            "employer_site": "https://hh.ru/employer/1779917",
+            "city": "Королев",
+            "site": "https://hh.ru"
+        },
+        {
+            "name": "Сотрудник склада/Помощник логиста",
+            "wage_min": "40000",
+            "wage_max": "46000",
+            "wage_value": "руб",
+            "url": "https://korolev.hh.ru/vacancy/45611999?from=catalog_vacancies",
+            "employer": "ООО СИСТЕМЫ КОМПЛЕКСНОЙ ЛОГИСТИКИ",
+            "employer_site": "https://hh.ru/employer/3306315",
+            "city": "Королев",
+            "site": "https://hh.ru"
+        },
+        {
+            "name": "Менеджер по работе с маркетплейсами",
+            "wage_min": null,
+            "wage_max": null,
+            "wage_value": null,
+            "url": "https://korolev.hh.ru/vacancy/46233129?from=catalog_vacancies",
+            "employer": "ООО Мирест",
+            "employer_site": "https://hh.ru/employer/4108691",
+            "city": "Королев",
+            "site": "https://hh.ru"
+        }
+    ]
+}
